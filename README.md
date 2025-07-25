@@ -1,9 +1,4 @@
-Sure, Suraj! Here's a clean, professional **`README.md`** template you can use in your Git repository to showcase your **Scrum Master interview Q\&A preparation**:
-
----
-
-```markdown
-# 🧠 Agile Scrum Master Interview Q&A Prep
+# 🧠 Agile Scrum Master Interview Q\&A Prep
 
 This repository contains a curated list of commonly asked **Agile Scrum Master interview questions** with clear, concise, and impactful answers — ideal for interviews focused on **Scrum, SAFe, Kanban, TDD, BDD, and Agile best practices**.
 
@@ -36,31 +31,25 @@ Hi, I’m **Suraj Satav**, a Certified Scrum Master with 3+ years of experience 
 
 ## 📂 Structure
 
-- `answers/`: Optional folder where detailed answers can be stored per question.
-- `README.md`: Overview and master list of questions.
-- Add `.pdf` or `.md` summaries for each concept as needed.
+* `answers/`: Optional folder where detailed answers can be stored per question.
+* `README.md`: Overview and master list of questions.
+* Add `.pdf` or `.md` summaries for each concept as needed.
 
 ---
 
 ## 🔄 To Do (Optional Enhancements)
 
-- [ ] Add STAR-format answers for conflict resolution questions  
-- [ ] Include diagrams for PI Planning, Kanban, WEST  
-- [ ] Record mock interview Q&A sessions  
-- [ ] Add a `resources.md` with helpful Agile books and links  
+* [ ] Add STAR-format answers for conflict resolution questions
+* [ ] Include diagrams for PI Planning, Kanban, WEST
+* [ ] Record mock interview Q\&A sessions
+* [ ] Add a `resources.md` with helpful Agile books and links
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/surajsatav) or reach me at **satavs@dnb.com** for collaboration or feedback.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/surajsatav) or reach me at **[satavs@dnb.com](mailto:satavs@dnb.com)** for collaboration or feedback.
 
 ---
 
 > “Agile is not a process, it’s a mindset — and I’m always learning to improve the way teams deliver value.” 🚀
-
-```
-
----
-
-Let me know if you'd like this converted to an actual file or need it in `.txt` or `.pdf` format too.
