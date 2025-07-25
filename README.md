@@ -48,7 +48,7 @@ Hi, I’m **Suraj Satav**, a Certified Scrum Master with 3+ years of experience 
 
 ## 📬 Contact
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/surajsatav) or reach me at **[satavs@dnb.com](mailto:satavs@dnb.com)** for collaboration or feedback.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/surajsatav) or reach me for collaboration or feedback.
 
 ---
 
